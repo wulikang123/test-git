@@ -13,5 +13,6 @@ public class GitTest1 {
         System.out.println("master test");
         System.out.println("dev test");
         System.out.println("master remote push!");
+        System.out.println("1234567!");
     }
 }
