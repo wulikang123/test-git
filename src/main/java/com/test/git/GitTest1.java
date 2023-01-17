@@ -12,5 +12,6 @@ public class GitTest1 {
         System.out.println("hello git4!");
         System.out.println("master test");
         System.out.println("dev test");
+        System.out.println("master remote push!");
     }
 }
